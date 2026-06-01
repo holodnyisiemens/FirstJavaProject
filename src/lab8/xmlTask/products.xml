@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+        
+    <product>
+                
+        <name>Ноутбук</name>
+                
+        <quantity>5</quantity>
+                
+        <price>75000</price>
+            
+    </product>
+        
+
+    <product>
+        <name>Клавиатура</name>
+        <quantity>10</quantity>
+        <price>4500</price>
+    </product>
+</products>
